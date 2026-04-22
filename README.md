@@ -14,7 +14,7 @@
 
 <br />
 
-<img src="./assets/everything_cbse_hero_1776840974301.png" alt="Everything CBSE Code — AI-Native Board Exam Command Center" width="100%" />
+<img src="./assets/everything_cbse_hero_1776840974301.png" alt="Everything CBSE Code — AI-Native Board Exam Command Center" width="600" />
 
 <br />
 
@@ -103,7 +103,7 @@ graph TD
 ```
 
 <div align="center">
-  <img src="./assets/ecc_ncert_library.png" alt="NCERT Digital Library — AI-Native ECC Edition" width="600" />
+  <img src="./assets/ecc_ncert_library.png" alt="NCERT Digital Library — AI-Native ECC Edition" width="500" />
   <br />
   <sub>Every NCERT textbook for Class 10 & 12 — indexed, searchable, and cross-referenced by the MCP server.</sub>
 </div>
@@ -114,23 +114,23 @@ graph TD
 
 <table>
   <tr>
-    <td width="80" align="center"><img src="./assets/claw_wizard.png" width="70" /></td>
+    <td width="100" align="center"><img src="./assets/claw_wizard.png" width="90" /></td>
     <td><b>🧠 Unified MCP Intelligence</b><br/>A custom stdio server exposing 80+ skills and 200+ personal notes directly to Claude Desktop. One server, both grades, instant retrieval.</td>
   </tr>
   <tr>
-    <td width="80" align="center"><img src="./assets/claw_science_lab.png" width="70" /></td>
+    <td width="100" align="center"><img src="./assets/claw_science_lab.png" width="90" /></td>
     <td><b>🧪 NCERT-Mirror Science Engine</b><br/>Every interaction cross-referenced against NCERT gold standards. Answers formatted exactly how examiners expect — diagrams, equations, labeled steps.</td>
   </tr>
   <tr>
-    <td width="80" align="center"><img src="./assets/claw_revision.png" width="70" /></td>
+    <td width="100" align="center"><img src="./assets/claw_revision.png" width="90" /></td>
     <td><b>📚 200+ Note Revision Vault</b><br/>An Obsidian-compatible knowledge vault with atomic notes, Dataview trackers, and spaced-repetition cues. Not a brain dump — a graph-navigable study system.</td>
   </tr>
   <tr>
-    <td width="80" align="center"><img src="./assets/claw_high_scorer.png" width="70" /></td>
+    <td width="100" align="center"><img src="./assets/claw_high_scorer.png" width="90" /></td>
     <td><b>🏆 495+ Strategy Protocols</b><br/>Deep-dive strategy hubs for high-weightage topics: Calculus, Organic Chemistry, Genetics, Map Work, CBQs. Each with dedicated scoring playbooks.</td>
   </tr>
   <tr>
-    <td width="80" align="center"><img src="./assets/claw_architect.png" width="70" /></td>
+    <td width="100" align="center"><img src="./assets/claw_architect.png" width="90" /></td>
     <td><b>⌨️ Slash-Command Workflows</b><br/>42 slash commands across both grades. One command triggers multi-step workflows: <code>/practice</code>, <code>/mock-test</code>, <code>/mark-my-answer</code>, <code>/derivation-drill</code>.</td>
   </tr>
 </table>
