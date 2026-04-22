@@ -1,6 +1,51 @@
-# CBSE Tools Ecosystem Architecture
+# 📘 Grade 10 Board Exam Ecosystem (ECC-10)
 
-Below is the complete architectural map of the CBSE preparation ecosystem, including all orchestration layers, behavior rules, subject skills, autonomous agents, execution commands, the deployable package, and the personal Obsidian knowledge base (`Prasanna`).
+<div align="center">
+
+<img src="../assets/cbse_claw_mascot.png" alt="Claw — Grade 10 Junior Edition" width="200" />
+
+**The high-density intelligence layer for CBSE Grade 10 Board Exams.**
+
+[![CBSE Grade 10](https://img.shields.io/badge/CBSE-Grade_10_Junior-2D3A6E?style=for-the-badge&logo=google-classroom&logoColor=white)](https://cbse.gov.in)
+[![Skills: 48](https://img.shields.io/badge/Skills-48_Active-blueviolet?style=for-the-badge&logo=bookstack&logoColor=white)](#the-junior-advantage)
+[![Target: 495+](https://img.shields.io/badge/Target-495%2B_/_500-1DB954?style=for-the-badge&logo=target&logoColor=white)](#the-junior-advantage)
+[![Vault: Prasanna](https://img.shields.io/badge/Vault-Prasanna-orange?style=for-the-badge&logo=obsidian&logoColor=white)](#the-knowledge-vault)
+
+<br />
+
+<img src="../assets/everything_cbse_hero_1776840974301.png" alt="ECC 10th — Junior Board Exam Command Center" width="600" />
+
+<br />
+
+*48 AI Skills · 7 Specialist Agents · 20 Workflow Commands · Full Obsidian Graph Integration*
+
+</div>
+
+---
+
+<a name="the-junior-advantage"></a>
+## 💎 The Junior Advantage (Class 10)
+
+Grade 10 is the foundation. ECC-10 focuses on **NCERT language compliance, CBQ mastery, and exam-hall simulation**. It’s designed to turn average answers into topper-grade responses by aligning with the latest CBSE marking schemes.
+
+### Why ECC-10?
+
+| The Junior Challenge | ECC-10 Solution |
+| :--- | :--- |
+| **CBQ Paralysis** | **CBQ-Engine** — 50% of the paper is case-based. Dedicated training on decoding passage-based questions. |
+| **Map Marking Errors** | `/map-quiz` — Interactive Geography map identification drill for 5 free marks. |
+| **Non-NCERT Language** | `/ncertify` — Automatically rewrites student answers to match NCERT keywords and terminology. |
+| **Time Management** | **Time-Manager Skill** — Provides per-section pacing blueprints (Reading/Writing/Grammar/Lit). |
+
+<div align="center">
+  <img src="../assets/claw_wizard.png" alt="Claw the Wizard" width="220" />
+  <br />
+  <sub><b>Board Exam Mastery</b> — Mastering the art of the perfect CBSE answer.</sub>
+</div>
+
+---
+
+## 🏗️ Repository Architecture
 
 ```text
 cbse-tools/
@@ -92,5 +137,62 @@ cbse-tools/
     ├── All Formulas.md                  ← Master Formula Hub
     ├── Keywords Bank.md                 ← Master Keyword Hub
     ├── Topper Answer Patterns.md        ← Best Practices Hub
-    └── ?? Home.md                       ← Main Dashboard
+    └── Home.md                          ← Main Dashboard
 ```
+
+---
+
+<a name="the-knowledge-vault"></a>
+## 📂 The Knowledge Vault (Prasanna)
+
+The `Prasanna/` directory is an Obsidian-compatible knowledge graph for Class 10.
+
+- **200+ Atomic Notes**: Every chapter of English, Math, Science, SST, and Tamil mapped out.
+- **Master Hubs**:
+  - `All Diagrams.md`: Labeled diagrams for Science (Biology/Physics).
+  - `Keywords Bank.md`: Subject-wise lists of "Must-Include" keywords for high marks.
+  - `Topper Answer Patterns.md`: Real-world examples of winning answer structures.
+- **Interactive Dashboards**: Uses Dataview to track mastery levels for each chapter.
+
+<div align="center">
+  <img src="../assets/claw_revision.png" alt="Claw sitting on NCERT books" width="240" />
+  <br />
+  <sub><b>Complete Revision</b> — All five subjects indexed and ready for retrieval.</sub>
+</div>
+
+---
+
+## 🤖 Junior Agent Roster
+
+| Agent | Purpose |
+| :--- | :--- |
+| **Socratic Tutor** | Helps students discover scientific principles and mathematical proofs on their own. |
+| **Senior Examiner** | Calibrates questions to the exact difficulty levels of KV and Navodaya pre-boards. |
+| **CBQ Builder** | Specializes in generating high-quality Case-Based Questions for SST and Science. |
+| **Step-Evaluator** | Marks answers with the same strictness as a Board Evaluator, focusing on keyword presence. |
+
+---
+
+## ⌨️ Workflow Commands
+
+- `/practice subject:science` — Triggers the Science skill + Senior Examiner agent.
+- `/mock-test` — A full-length timed simulation with automatic evaluation.
+- `/ncertify` — The "magic" command to align your language with NCERT standards.
+- `/cbq-drill` — Intensive practice session focusing solely on Case-Based Questions.
+
+---
+
+<div align="center">
+
+<img src="../assets/claw_high_scorer.png" alt="Claw celebrating" width="160" />
+
+<br />
+
+**"Strategy is the bridge between hard work and high scores."**
+
+<br />
+
+[![Back to Root](https://img.shields.io/badge/🏠_Back_to_Root-ECC_Home-2D3A6E?style=for-the-badge)](../README.md)
+[![Chinese Version](https://img.shields.io/badge/📖_中文文档-README_zh-red?style=for-the-badge)](../README_zh.md)
+
+</div>

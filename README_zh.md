@@ -14,7 +14,7 @@
 
 <br />
 
-<img src="./assets/everything_cbse_hero_1776840974301.png" alt="Everything CBSE Code — AI 原生考试指挥中心" width="100%" />
+<img src="./assets/everything_cbse_hero_1776840974301.png" alt="Everything CBSE Code — AI 原生考试指挥中心" width="600" />
 
 <br />
 
