@@ -42,7 +42,7 @@ No manual switching. No copy-pasting prompts. It's agent chaining — one comman
 <div align="center">
   <img src="./assets/claw_architect.png" alt="Claw the Architect — Coding & System Design" width="260" />
   <br />
-  <sub><b>"The Architect"</b> — Building the intelligence layer</sub>
+  <sub>Building the intelligence layer for ECC-10 & ECC-12</sub>
 </div>
 
 ---
