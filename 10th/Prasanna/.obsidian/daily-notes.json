@@ -1,0 +1,6 @@
+{
+  "folder": "Daily Logs",
+  "template": "Templates/Daily Study Log",
+  "format": "YYYY-MM-DD",
+  "autorun": false
+}

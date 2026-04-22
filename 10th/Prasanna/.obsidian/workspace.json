@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "bc2de610a83c74aa",
+    "type": "split",
+    "children": [
+      {
+        "id": "804c316a37750c7a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "76f123122334afaa",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "20c09e237f7d681d",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3fb2e217407085b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ec2e5100dbd24c7f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b7318cdce2940aa4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f3ee28168cddbcf",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "455e76be146d7727",
+    "type": "split",
+    "children": [
+      {
+        "id": "8d046ed4c61d043e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c012f20d88abd084",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "c507935c05d590b2",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "b669c2d2d7840711",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "b8e7646e058bb310",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "1fd3bcf8c1be13ba",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "76f123122334afaa",
+  "lastOpenFiles": [
+    "🏠 Home.md",
+    "🌍 Social Science.md",
+    "Time Management.md",
+    "🎯 Strategy Hub.md",
+    "Topper Answer Patterns.md",
+    "Keywords Bank.md",
+    "All Diagrams.md",
+    "All Formulas.md",
+    "Tamil/T-Kaditham.md",
+    "Tamil/T-Ilakkanam.md",
+    "Tamil/T-Iyal 6.md",
+    "Tamil/T-Iyal 5.md",
+    "Tamil/T-Iyal 4.md",
+    "Tamil/T-Iyal 3.md",
+    "Tamil/T-Iyal 2.md",
+    "Tamil/T-Iyal 1.md",
+    "Tamil",
+    "English/Grammar & Writing/E-Analytical Paragraph.md",
+    "English/Grammar & Writing/E-Formal Letter Writing.md",
+    "English/Grammar & Writing/E-Subject-Verb Concord.md",
+    "English/Grammar & Writing/E-Reported Speech.md",
+    "English/Grammar & Writing/E-Tenses and Modals.md",
+    "English/Grammar & Writing",
+    "English/Footprints/E-The Book That Saved the Earth.md",
+    "English/Footprints/E-Bholi.md",
+    "English/Footprints/E-The Necklace.md",
+    "English/Footprints/E-The Making of a Scientist.md",
+    "English/Footprints/E-Footprints without Feet.md",
+    "English/Footprints",
+    "English/Poetry",
+    "English/Prose",
+    "English",
+    "SST/Economics",
+    "SST/Political Science",
+    "SST/Geography",
+    "SST/History"
+  ]
+}

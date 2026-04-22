@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": true,
+  "colorGroups": [
+    {
+      "query": "path:Math",
+      "color": {
+        "a": 1,
+        "rgb": 4488191
+      }
+    },
+    {
+      "query": "path:Science/Physics",
+      "color": {
+        "a": 1,
+        "rgb": 3253684
+      }
+    },
+    {
+      "query": "path:Science/Chemistry",
+      "color": {
+        "a": 1,
+        "rgb": 56511
+      }
+    },
+    {
+      "query": "path:Science/Biology",
+      "color": {
+        "a": 1,
+        "rgb": 5635072
+      }
+    },
+    {
+      "query": "path:SST",
+      "color": {
+        "a": 1,
+        "rgb": 16744448
+      }
+    },
+    {
+      "query": "path:English",
+      "color": {
+        "a": 1,
+        "rgb": 10040166
+      }
+    },
+    {
+      "query": "path:Tamil",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "path:Strategy OR path:\"Quick Reference\"",
+      "color": {
+        "a": 1,
+        "rgb": 16766720
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": false,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.2,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": true,
+  "centerStrength": 0.4,
+  "repelStrength": 12,
+  "linkStrength": 1,
+  "linkDistance": 200,
+  "scale": 0.8000000000000025,
+  "close": true
+}
