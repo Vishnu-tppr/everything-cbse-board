@@ -57,7 +57,7 @@ students aiming for the **Top 0.1%**. It bridges the gap between raw NCERT
 content and professional examiner expectations using the **Model Context
 Protocol (MCP)** and **Autonomous Agent Chaining**.
 
-[!IMPORTANT]
+>[!IMPORTANT]
 > **ECC is not just a study tool; it's a "Second Brain" calibrated to the CBSE
 DNA.**
 
